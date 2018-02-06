@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise: Intents with data</string>
+    <string name="name">Name:</string>
+    <string name="adresse">Adresse</string>
+    <string name="Send">Send</string>
+
+</resources>
